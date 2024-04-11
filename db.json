@@ -1,5 +1,18 @@
 {
-  "users": [{ "id": 1, "name": "Myra" }],
+  "users": [
+    {
+      "id": "e005",
+      "name": "Matthew Goyette"
+    },
+    {
+      "id": "f5e4",
+      "name": "Angelica Pagac"
+    },
+    {
+      "id": "18d6",
+      "name": "Jerald Ankunding"
+    }
+  ],
   "albums": [],
   "photos": []
 }

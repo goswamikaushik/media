@@ -11,13 +11,60 @@
     {
       "id": "7dcd",
       "name": "Dennis Willms"
+    },
+    {
+      "id": "cb9f",
+      "name": "Mrs. Jacqueline Pouros"
+    },
+    {
+      "id": "7a06",
+      "name": "Delia Crist"
+    },
+    {
+      "id": "a4c7",
+      "name": "Angie Grimes"
     }
   ],
   "albums": [
     {
-      "id": 10,
+      "id": "10",
       "title": "hiking trip",
       "userId": 1
+    },
+    {
+      "id": "e34a",
+      "userId": "1",
+      "title": "Electronic Granite Fish"
+    },
+    {
+      "id": "8f0b",
+      "userId": "1",
+      "title": "Elegant Concrete Computer"
+    },
+    {
+      "id": "d24f",
+      "userId": "1",
+      "title": "Electronic Soft Bacon"
+    },
+    {
+      "id": "6eb5",
+      "userId": "1",
+      "title": "Small Rubber Chips"
+    },
+    {
+      "id": "57fc",
+      "userId": "1",
+      "title": "Tasty Concrete Shoes"
+    },
+    {
+      "id": "edd4",
+      "userId": "1",
+      "title": "Intelligent Concrete Computer"
+    },
+    {
+      "id": "f2a3",
+      "userId": "1",
+      "title": "Luxurious Fresh Shoes"
     }
   ],
   "photos": []
